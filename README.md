@@ -1,2 +1,2 @@
 # UDMA_1
-Memory to memory transfer
+Burst transfer from one location to another on the memory.
